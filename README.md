@@ -79,11 +79,11 @@ The installation procedure to run the project on your local machine is as follow
 ## Support
 
 For additional assistance using this library, contact the developer experience (DX) team via;
-- WhatsApp: +260 977 742 472
-- Email: corneliuskasokola101@gmail.com
+- [WhatsApp Developer](https://wa.me/+260977742472)
+- [Email Developer](mailto:corneliuskasokola101@gmail.com)
 
 ## License
 
-By contributing to the Flutter library, you agree that your contributions will be licensed under its MIT license.
+By contributing to the Sparko-Project-Management-System, you agree that your contributions will be licensed under its MIT license.
 
 Copyright (c) Omae Software.
