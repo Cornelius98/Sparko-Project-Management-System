@@ -58,9 +58,9 @@ The installation procedure to run the project on your local machine is as follow
 - Open phpMydmin
 - Create a database with the name `projectmanager` or as named in the database file in the `model` folder
 - Import the database
-- Go to Xamp/htdocs folder and creater a folder names `pms`
-- Move the downloaded ZIP file to `pms` folder or clone the respository in `pms` folder
-- Access the the project manage through the browser on 127.0.0.1/pms
+- Go to Xamp/htdocs folder and creater a folder names `sparko`
+- Move the downloaded ZIP file to `sparko` folder or clone the respository in `sparko` folder
+- Access the the project manage through the browser on `127.0.0.1/sparko`
 
 ## Usage
 
